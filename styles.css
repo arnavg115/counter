@@ -1,0 +1,32 @@
+body{
+    background: whitesmoke;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.navbar{
+    background: lightskyblue;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.card{
+    background: white;
+    border-radius: 30px;
+    margin: auto;
+    width: 25%;
+    text-align: center;
+    font-size: 100px;
+    height: 400px;
+}
+button{
+    background-color:none;
+    border:black;
+    border-width: 1px;
+    border-radius: 20px;
+    size: 200px;
+}
